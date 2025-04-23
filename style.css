@@ -1,0 +1,46 @@
+*{margin: 0;}
+
+table{
+    width: 100%;
+    height: 100vh;
+    
+}
+
+#linha1{
+    height: 160px;
+}
+
+#linha2{
+    height: 160px;
+}
+
+#linha3{
+    height: 195px;
+}
+
+#linha4{
+    height: 57px;
+}
+
+#linha5{
+    height: 57px;
+}
+
+#linha6{
+    height: 146px;
+}
+
+
+
+.td1 {width: 20%; text-align: right;}
+.td3 {width: 16%;}
+.td4 {width: 20%; text-align: center;}
+.td5 {width: 16%;}
+.td6 {width: 12%;}
+.td7 {width: 5%;}
+
+.td8 {text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+width: 12%;}
+
+.td9 {text-align: center;}
